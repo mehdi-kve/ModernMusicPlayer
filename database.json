@@ -1,0 +1,68 @@
+ [
+    {
+        "id" : 0,
+        "track" : "Ghale",
+        "artist": "Mehrad Hidden",
+        "duration" : "5:39",
+        "src": "./music/01Ghale.mp3",
+        "cover": "./img/toonel2.jpg"
+    },
+
+    {
+        "id" : 1,
+        "track" : "Kaj",
+        "artist": "Mehrad Hidden",
+        "duration" : "3:53",
+        "src": "./music/02Kaj.mp3",
+        "cover": "./img/zoozanaghe.jpg"
+    },
+    
+    {
+        "id" : 2,
+        "track" : "Farmoon",
+        "artist": "Mehrad Hidden",
+        "duration" : "7:49",
+        "src": "./music/03Farmoon.mp3",
+        "cover": "./img/toonel.jpg"
+    },
+
+    
+    {
+        "id" : 3,
+        "track" : "Raftam Too Delesh",
+        "artist": "Mehrad Hidden",
+        "duration" : "3:36",
+        "src": "./music/04Raftam Too Delesh.mp3",
+        "cover": "./img/zoozanaghe.jpg"
+    },
+
+    
+    {
+        "id" : 4,
+        "track" : "Kafi Nist",
+        "artist": "Mehrad Hidden",
+        "duration" : "3:34",
+        "src": "./music/05Kaafi Nist.mp3",
+        "cover": "./img/bozorg.jpg"
+    },
+
+    
+    {
+        "id" : 5,
+        "track" : "Sabok",
+        "artist": "Mehrad Hidden",
+        "duration" : "5:00",
+        "src": "./music/06Sabok.mp3",
+        "cover": "./img/toonel2.jpg"
+    },
+
+    {
+        "id" : 6,
+        "track" : "Yeki Dige",
+        "artist": "Mehrad Hidden",
+        "duration" : "4:32",
+        "src": "./music/07Yeki Dige.mp3",
+        "cover": "./img/bozorg.jpg"
+    }
+
+ ]
