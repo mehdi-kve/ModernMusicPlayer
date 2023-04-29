@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player vr 1.1.0 </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="#">
+    <script src="https://kit.fontawesome.com/aff1da9036.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="card-container">
+            <div class="sidebar">
+                <div class="sidebar-header"></div>
+                <div class="artist">
+                    <div class="artist-pic">
+                        <img class="artist-pic" src="./img/mehrad.PNG">
+                    </div>
+                    <div class="artist-name">
+                        <p>Mehrad Hidden</p>
+                        <div class="artistDetail">
+                            <p>3,600 Plays</p>
+                        </div>
+                    </div>
+                    <div id="dmode" class="darkmodebut">
+                        <i id="dmodeicon" class="fa fa-moon-o"></i>                    
+                    </div>
+                </div>
+                <div class="sidebar-body">
+                    <div class="track-list">
+                        <ul id="t-list">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="trcontainer">
+                <div class="card" id="mymove">
+                    <div class="status">Now Playing</div>
+                    <div class="music-cover">
+                        <img id="trackimg" src="./img/toonel2.jpg">
+                    </div>
+                    <p id="trname">Ghale</p>
+                    <p id="arname">Mehrad Hidden</p>
+                    <div class="timeline">
+                        <div class="progressbar">
+                            <div id="bar" class="incbar"></div>
+                        </div>
+                    </div>
+                    <div class="player">
+                        <i class="fa-solid fa-repeat"></i>
+                        <i id="backward" class="fa-solid fa-backward-step"></i>
+                        <div id="playButt" class="play">
+                            <i id ="play" class="fa-solid fa-play" style="margin: 15px 18.5px;"></i>
+                        </div>
+                        <i id="forward" class="fa-solid fa-forward-step"></i>
+                        <i id="heart" class="fa-regular fa-heart"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <div class="footer">
+        <p>Made With <i class="fa-solid fa-heart"></i> by M3hdi.kve</p>
+    </div>
+    </div>
+</body>
+<script type="module" src="index.js"></script>
+</html>
