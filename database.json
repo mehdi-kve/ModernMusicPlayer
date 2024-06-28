@@ -4,7 +4,7 @@
         "track" : "Ghale",
         "artist": "Mehrad Hidden",
         "duration" : "5:39",
-        "src": "https://dl.silamusic.ir/musics/2021/08/23/be-darak-ke.mp3",
+        "src": "./music/01Ghale.mp3",
         "cover": "./img/toonel2.jpg"
     },
 
