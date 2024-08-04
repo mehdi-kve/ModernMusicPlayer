@@ -1,4 +1,4 @@
-import database from './database.json' with {type : 'json'};
+import data from './data.json' with {type : 'json'};
 document.addEventListener("DOMContentLoaded", ready);
 
 const trackList = document.getElementById('t-list');
